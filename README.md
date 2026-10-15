@@ -60,7 +60,7 @@ python -m pytest -q                   # run the tests
 
 The full walkthrough with explanations and plots is in
 [`logistic_regression_from_scratch.ipynb`](logistic_regression_from_scratch.ipynb).
-Kaggle version: <https://www.kaggle.com/code/ahmedshanaa/logistic-regression-from-scratch-numpy-breast>
+Run it online without installing anything: [Kaggle notebook](https://www.kaggle.com/code/ahmedshanaa/logistic-regression-from-scratch-numpy-breast)
 
 ## Project structure
 
