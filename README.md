@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![tests](https://github.com/AhmedShanaa0/logistic-regression-from-scratch/actions/workflows/tests.yml/badge.svg)](https://github.com/AhmedShanaa0/logistic-regression-from-scratch/actions/workflows/tests.yml)
 
 L2-regularized **logistic regression implemented from scratch with NumPy**, trained with batch gradient descent, evaluated with a leak-free protocol and **verified against scikit-learn**.
 
